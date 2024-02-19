@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🌱 I’m currently learning **Solidity and React**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **singhmanas610@gmail.com**
 
